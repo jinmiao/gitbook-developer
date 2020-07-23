@@ -1,21 +1,21 @@
 ### Resume
 
  <center>
-     <h1>XXX</h1>
+     <h1>欧阳金苗</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             18710150855
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             oyjm0601@yeah.nt
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/jinmiao">CyC2018</a>
          </span>
          ·
          <span>
@@ -27,10 +27,10 @@
 
  ## 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 男，1987 年出生
+ - 求职意向：Android/Flutter 研发工程师
+ - 工作经验：10 年
+ - 期望薪资：面谈
 
 ## 教育经历
 
@@ -55,10 +55,6 @@
 
 ## 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- ★★★ Java / Kotlin / Git
+- ★★☆ Flutter
+- ★☆☆ Go、Python
