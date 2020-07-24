@@ -1,11 +1,15 @@
 ### 项目实战必备技能
 
-效率
-
 工欲善其事，必先利其器
+
+
+
+#### Android 开发工具
 
 * [Git](https://git-scm.com/)
 * [Android Studio](https://developer.android.com/studio)
+* [产品更新日志](https://keepachangelog.com/zh-CN/1.0.0/)
+  * [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
 
 
@@ -36,3 +40,21 @@
   * Firebase store
   * Google Cloud
   * AWS
+
+
+
+#### 产品数据相关
+
+* DAU
+
+
+
+
+
+#### 广告收入相关
+
+* ARPU
+
+
+
+#### 

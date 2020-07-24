@@ -56,9 +56,7 @@ java -jar apktool.jar d -f Demo.apk -o Demo
 
 ##### 4. jd-gui: 查看 jar 源码 
 
-![jd-gui][jd-gui]
-
-
+![img](../images/jd-gui.png)
 
 ##### 参考资料
 
