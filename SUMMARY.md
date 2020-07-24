@@ -4,10 +4,11 @@
 
 ### 硬实力-专业技能
 
-* [程序员基础](程序员基础/README.md)
-  * [排序算法](程序员基础/搞懂基本排序算法.md)
-  * [设计模式](计算机基础/设计模式/README.md)
-* [移动软件开发(Android)](android/README.md)
+* [程序员基础](base/index.md)
+  * [基本算法](base/suanfa.md)
+  * [设计模式](base/shejimoshi.md)
+* [移动软件开发](android/README.md)
+* [Android高工常用技能](android/高工常用技能.md)
 * [项目实战必备技能](android/项目实战必备技能.md)
 
 ### 软实力
