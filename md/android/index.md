@@ -29,7 +29,8 @@
   * [Flutter Samples](https://flutter.github.io/samples/#)
   * [高效 Dart 语言指南](https://dart.cn/guides/language/effective-dart)
   * [Flutter 实战](https://book.flutterchina.club/)
-
+* [flutter-notebook](https://riskers.github.io/flutter-notebook/)
+  
 * 开发语言：Dart
   * [Dart中文文档](https://dart.cn)
 * Flutter 第三方库(Packages)
