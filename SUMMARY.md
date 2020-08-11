@@ -11,18 +11,20 @@
 
 ### 专业技能
 
-* [移动软件开发](md/android/index.md)
-* [Android高工常用技能](md/android/androideng.md)
+* [移动软件开发](md/mobile_dev.md)
+  * [Android](md/android.md)
+  * [iOS](md/ios.md)
+  * [Flutter](md/flutter.md)
+  * [PMP](md/pmp.md)
+  * [UI/UE](md/ui.md)
+* [程序员必备](md/dev_must.md)
 * [项目实战必备技能](md/android/pm.md)
 * [参与过的移动产品](md/android/products.md)
-* [Github 开源项目](md/opensource.md)
-
-### 项目管理
-
-* [项目管理](md/PM相关.md)
+* [Github](md/opensource.md)
+* [Gitbook](md/gitbook.md)
 
 ### 其他
-* [学习方法](md/学习方法和技巧.md)
+* [认知](md/life.md)
 * [外语](md/外语.md)
 * [兴趣爱好](md/others/hobby.md)
 * [社交媒体](md/others/social.md)
