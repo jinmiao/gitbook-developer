@@ -29,6 +29,3 @@
 * [兴趣爱好](md/others/hobby.md)
 * [社交媒体](md/others/social.md)
 
-----
-
-* [个人简历](md/resume.md)
